@@ -29,3 +29,28 @@ In my spare time I started learn Frontend Development because this sphere is lik
 - Design knowledge
 
 ***
+
+### Code example
+
+    function solution(number){
+    let sum = 0;
+    for (i=0; i<number; i++) {
+      if (i % 3 === 0 || i % 5 ===0) {
+        sum += i;
+    }
+    }
+    return sum;
+    }
+    console.log(solution(10));  
+
+***
+
+### Courses
+
+- [Front-end Roadmap](https://strada.one/)
+- RS School «JavaScript/Front-end. Stage 1» (in progress)
+
+***
+### English
+
+B1 - Experience of communication in English on work, also studied at Espaniero School for a year and took part in Sprint Lingoda, where there was a conversational practice with native speakers every day for two months.
