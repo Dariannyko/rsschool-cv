@@ -48,7 +48,7 @@ In my spare time I started learn Frontend Development because this sphere is lik
 ### Courses
 
 - [Front-end Roadmap](https://strada.one/)
-- RS School «JavaScript/Front-end. Stage 1» (in progress)
+- [RS School «JavaScript/Front-end. Stage 1»](https://rs.school/js/) (in progress)
 
 ***
 ### English
